@@ -1,0 +1,10 @@
+<!--
+    Input:
+        hardware/google/pixel/fastboot/android.hardware.fastboot-service.pixel.xml
+-->
+<manifest version="9.0" type="device">
+    <hal format="aidl">
+        <name>android.hardware.fastboot</name>
+        <fqname>IFastboot/default</fqname>
+    </hal>
+</manifest>
